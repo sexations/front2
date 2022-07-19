@@ -1,0 +1,429 @@
+.App {
+  text-align: center;
+}
+.diseño{
+  color: white;
+}
+
+.clock{
+  font-size: 11px;
+  color: #117caa;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.clockCont{
+  padding-top: 5px;
+  width: 100px;
+}
+
+.gsend{
+  color:rgb(0, 209, 0);
+  font-family: 'Gill Sans';
+  font-size: 16px;
+}
+
+#doscientos{
+  width: 100%;
+  height: auto;
+}
+
+#contserv{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.pdist{
+  color:rgb(224, 236, 3);
+  font-family: 'Gill Sans';
+  font-size: 16px;
+}
+
+.contentconsult {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.borderlight {
+  border: solid 1px lightgray;
+}
+
+.showprod {
+  margin-left: 10px;
+}
+
+.consultaVenta {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactHome {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid lightgrey 1px;
+}
+
+.CienCart {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  border-bottom: 1px solid #c00;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-family: "Trebuchet MS";
+  font-size: 15px;
+}
+
+.namecart {
+  width: 35%;
+}
+
+.cantidadCart {
+  width: 15%;
+}
+
+.precioUnit {
+  width: 25%;
+}
+
+.eliminar {
+  width: 10%;
+}
+
+.contactHomeText {
+  width: 70%;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.nodeco {
+  text-decoration: none;
+  color: white;
+}
+
+.contactText {
+  font-family: "Lucida Sans";
+  font-size: 15;
+  color: lightslategray;
+}
+
+.contactHomeWA {
+  width: 30%;
+  padding-bottom: 10px;
+}
+
+.homeWA {
+  font-size: 50px;
+  margin-top: 10px;
+  color: #00bb2d;
+}
+
+#center {
+  justify-content: center;
+}
+
+#textfooter{
+  font-size: 12px;
+}
+
+.padtop3 {
+  padding-top: 3px;
+}
+
+.h300 {
+  height: 50px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+#producto1 {
+  background-color: white;
+  border-radius: 5px;
+}
+
+.cardFont {
+  font-family: "Trebuchet MS";
+  color: lightgray;
+  font-size: 12px;
+}
+
+.cardFont2 {
+  font-family: "Trebuchet MS";
+  color: lightslategray;
+  font-size: 12px;
+}
+
+#wimage {
+  height: 80%;
+  width: auto;
+  padding-top: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.propzoom {
+  transform: scale(2);
+  background-color: white;
+  z-index: 10;
+}
+
+#producto2 {
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255);
+
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 250px;
+  height: 450px;
+  padding-top: 5px;
+}
+
+.secondB {
+  background-color: #d06c20;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  width: auto;
+  border-radius: 4px;
+  margin-top: 12px;
+}
+
+.secondBcont {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  width: 100%;
+  height: 40px;
+  background-color: white;
+}
+
+.grayline {
+  width: 100%;
+  height: 1px;
+  background-color: lightgrey;
+}
+
+.cart {
+  color: white;
+  padding-top: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.logocont {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.logoban {
+  width: 95%;
+}
+
+.minus {
+  transform: scale(0.8);
+}
+
+.serviceIcon {
+  color: #d06c20;
+}
+
+.serviceImage {
+  width: 70%;
+}
+
+.serviceImageCont {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.titlereg {
+  background-color: #fff014;
+}
+
+.titlereg2 {
+  background-color: #117caa;
+  color: white;
+}
+
+.titlereg3 {
+  background-color: #d06c20;
+  color: white;
+}
+
+.titlereg4 {
+  background-color: #00bb2d;
+  color: white;
+}
+
+#logotext {
+  color: #117caa;
+  font-size: 25px;
+}
+
+#navcontrol {
+  margin-left: 20px;
+}
+#navMenu {
+  font-size: 15px;
+  font-family: "Lucida Sans";
+  color: #f08736;
+}
+
+.minicart {
+  font-size: 10px;
+}
+
+#navMenu2 {
+  font-size: 20px;
+  font-family: "Lucida Sans";
+  color: #f08736;
+  margin-right: 10px;
+}
+
+#navMenu:hover {
+  color: #1e8dc4;
+  transform: scale(1.1);
+}
+
+.textcart {
+  font-size: 10px;
+}
+
+.oculto {
+  display: none;
+}
+
+.tw {
+  color: white;
+}
+
+.imagenalto {
+  height: 25px;
+}
+
+.dieciocho {
+  width: 20rem;
+}
+
+.dieciocho button {
+  padding: 10px 0px;
+  max-width: 90%;
+  background-color: lightgoldenrodyellow;
+  border: 1px solid antiquewhite;
+  border-top-right-radius: 45%;
+}
+
+.dieciocho.card {
+  padding: 0;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 232);
+  box-shadow: 3px 5px gray;
+}
+
+.h300 {
+  height: 300px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.imagen {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+}
+
+.form-container input {
+  margin: 5px;
+}
+
+.form-container {
+  margin: 50px;
+  border: 5px;
+  border-color: blue;
+  border-style: dashed;
+}
+.containerProduct {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.prooductImg {
+  height: 300px;
+  width: auto;
+}
+
+.productElement {
+  margin: 7px;
+}
+
+.ciento {
+  width: 95%;
+  height: 100%;
+}
+
+.menui {
+  margin-left: 25%;
+}
+
+.gradiente {
+  background-image: linear-gradient(green, yellow, orange);
+}
+.logo-lgi {
+  width: 48px;
+  height: 64px;
+  display: block;
+  margin-left: 10px;
+  margin-right: auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(3, 3, 3);
+}
+
+#footer {
+  background-color: #117caa;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
